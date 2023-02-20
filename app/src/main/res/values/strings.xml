@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android3Lesson1</string>
+    <string name="Name">Чынгыз</string>
+    <string name="random_heding">Вы действительно %1d</string>
+</resources>
